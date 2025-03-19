@@ -48,4 +48,3 @@ foreach ($User in $LondonUsers) {
     Add-ADGroupMember -Identity $GroupName -Members $User
     Write-Output "User '$($User.Name)' added to '$GroupName' group."
                                 }
-
