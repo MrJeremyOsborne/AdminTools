@@ -15,4 +15,6 @@ This project is a repository of PowerShell scripts that can assist in performing
 
 ## Disclaimer
 
-This project was designed to showcase my proficiency in PowerShell scripting, while also enhancing my skills and knowledge in PowerShell, GitHub, and Visual Studio Code.
+This project was designed to showcase my proficiency in PowerShell scripting, while also enhancing my skills and knowledge as part of the Microsoft Software and Systems Academy (MSSA) Server and Cloud Administration (PSCA15) Cohort. 
+
+You are welcome to address any issues you encounter, and provide any feedback you may have using the Discussions feature of the repository.
