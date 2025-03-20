@@ -42,6 +42,7 @@ do {
 $SecurePassword = ConvertTo-SecureString -String $Password -AsPlainText -Force
 
 # Clear the plain text password from memory
+$Password = $null
 [System.Runtime.InteropServices.Marshal]::ZeroFreeBSTR([System.Runtime.InteropServices.Marshal]::SecureStringToBSTR((ConvertTo-SecureString -String $Password -AsPlainText -Force)))
 Write-Host "Password has been set successfully." -ForegroundColor Green
 
