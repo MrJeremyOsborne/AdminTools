@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/6b8cf714-400a-459f-b806-5d3fc7292fb8" alt="bk" width="1200"/>
 </p>
 
-# Powershell Administrative Tools Project
+# PowerShell Administrative Tools Project
 
 This project is a repository of PowerShell scripts that can assist in performing administrative functions. 
 
